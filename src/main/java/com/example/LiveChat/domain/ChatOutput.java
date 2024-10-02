@@ -1,4 +1,4 @@
 package com.example.LiveChat.domain;
 
-public record ChatOutput(String message) {
+public record ChatOutput(String content) {
 }

@@ -1,5 +1,5 @@
 package com.example.LiveChat.domain;
 
-public record ChatInput (String username, String Message) {
+public record ChatInput (String user, String message) {
 
 }
